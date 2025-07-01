@@ -1,5 +1,5 @@
 Nadeline A. Ricafranca
 
-Lab 5: Student Grade Analyzer
+Mini Capstone: Student Grade Analyzer
 
-Screenshot of the Output:
+Screenshot of the Output: ![alt text](image.png)
